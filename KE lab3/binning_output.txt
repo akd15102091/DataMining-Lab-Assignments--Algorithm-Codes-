@@ -1,0 +1,29 @@
+1) After sorting and partitioning data with respect to equal depth partitioning ,
+ equal depth bins are  : 
+
+2  3  5  6  
+7  14  18  22  
+23  28  30  35  
+35  40  45  59  
+
+----------------------------------------------------- 
+
+
+2) Smoothing data by bin means : 
+
+4  4  4  4  
+15  15  15  15  
+29  29  29  29  
+44  44  44  44  
+
+----------------------------------------------------- 
+
+
+Smoothing data by bin boundaries : 
+
+2  2  6  6  
+7  18  18  22  
+23  30  30  35  
+35  35  35  59  
+
+----------------------------------------------------- 

@@ -1,0 +1,15 @@
+Transactions Scanned : 
+T1 -> I1 I2 I5 T2 -> I2 I4 T3 -> I2 I3 T4 -> I1 I2 I4 T5 -> I1 I3 T6 -> I2 I3 T7 -> I1 I3 T8 -> I1 I2 I3 I5 T9 -> I1 I2 I3 
+
+Confidence of : {I1,I2,} ==> {I3,}  : 0.5
+Confidence of : {I1,I3,} ==> {I2,}  : 0.5
+Confidence of : {I1,} ==> {I2,I3,}  : 0.333333
+Confidence of : {I2,I3,} ==> {I1,}  : 0.5
+Confidence of : {I2,} ==> {I1,I3,}  : 0.285714
+Confidence of : {I3,} ==> {I1,I2,}  : 0.333333
+Confidence of : {I1,I2,} ==> {I5,}  : 0.5
+Confidence of : {I1,I5,} ==> {I2,}  : 1
+Confidence of : {I1,} ==> {I2,I5,}  : 0.333333
+Confidence of : {I2,I5,} ==> {I1,}  : 1
+Confidence of : {I2,} ==> {I1,I5,}  : 0.285714
+Confidence of : {I5,} ==> {I1,I2,}  : 1

@@ -1,0 +1,10 @@
+Transactions Scanned : 
+T1 -> I1 I5 T2 -> I2 I4 T3 -> I4 I5 T4 -> I2 I3 T5 -> I5 T6 -> I2 I3 I4 
+
+After 2nd scanning (final sets) :  
+{I2 }  : 3
+{I2 , I3 }  : 2
+{I2 , I4 }  : 2
+{I3 }  : 2
+{I4 }  : 3
+{I5 }  : 3

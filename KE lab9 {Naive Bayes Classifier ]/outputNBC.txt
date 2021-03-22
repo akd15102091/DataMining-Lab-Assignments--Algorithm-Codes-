@@ -1,0 +1,12 @@
+ Input Data : 
+day --  1   2   3   4   5   6   7   8   9   10   11   12   13   14   
+humidity --  high   high   high   high   normal   normal   normal   high   normal   normal   normal   high   normal   high   
+outlook --  rainy   rainy   overcast   sunny   sunny   sunny   overcast   rainy   rainy   sunny   rainy   overcast   overcast   sunny   
+playgolf --  no   no   yes   yes   yes   no   yes   no   yes   yes   yes   yes   yes   no   
+temperature --  hot   hot   hot   mild   cool   cool   cool   mild   cool   mild   mild   mild   hot   mild   
+wind --  false   true   false   false   false   true   true   false   false   false   true   true   false   true   
+
+
+lets predict some values  : 
+Entered data for prediction : outlook : sunny , temperature : hot , humidity: normal , wind : false
+Predicted result is : yes

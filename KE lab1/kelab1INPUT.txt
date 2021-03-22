@@ -1,0 +1,6 @@
+1 a b c d e f
+2 b d e f 
+3 a c d f
+4 d e f
+5 c d e
+6 a b f 
